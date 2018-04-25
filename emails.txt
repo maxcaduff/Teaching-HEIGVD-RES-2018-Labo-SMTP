@@ -1,0 +1,7 @@
+albert@hello.com
+bertrand@hello.com
+colin@hello.com
+david@hello.com
+egon@hello.com
+flo@hello.com
+goliath@hello.com

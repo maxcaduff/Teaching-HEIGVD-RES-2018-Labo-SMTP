@@ -1,0 +1,14 @@
+subject: Hello 1
+
+message test nr 1
+good bye
+.
+subject: Hello 2
+
+message test nr 2
+good bye
+.
+subject: Hello 3
+
+message test nr 3
+good bye
